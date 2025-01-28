@@ -87,7 +87,7 @@
     "stylelint": "^16.14.1",
     "stylelint-config-sass-guidelines": "11.1",
     "stylelint-order": "^6.0.4",
-    "taiko": "^1.4.0",
+    "taiko": "^1.4.3",
     "ts-unused-exports": "^11.0.1",
     "tsx": "^4.19.2",
     "typescript": "^5.5.4"
